@@ -1,7 +1,7 @@
 # ProxyTwitter
 
 <img src="images/bash_pic.png">
-You can see this bot works on twitter just fine atleast right now. <https://twitter.com/screwlol>
+You can see this bot works on twitter just fine atleast right now. https://twitter.com/screwlol
 
 ## How it works
 
