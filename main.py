@@ -6,10 +6,10 @@ from proxybroker import Broker
 
 
 # Authenticate to Twitter (developer.twitter.com)
-api = "h62iSPak7kJDwO8ID6WHjYsWU"
-api_secret = "lq40KvwXfctc5bjtWvl5uxGT01jvIp77pHZrNzrej39sW6gZGy"
-access_token = "937334422118027265-9GfliYPtDhp1qeYQTaSzcUqbHRW2J5F"
-access_token_secret = "zSb3GaWrKrq5BLTjgxsfKlMzMV889wnBNEnF5ysCWKNLT"
+api = ""
+api_secret = ""
+access_token = ""
+access_token_secret = ""
 auth = tweepy.OAuthHandler(api, api_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
